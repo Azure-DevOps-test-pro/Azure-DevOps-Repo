@@ -4,3 +4,4 @@ git config
 git init
 git remote add
 git commit -m
+git add *
