@@ -5,3 +5,6 @@ git init
 git remote add
 git commit -m
 git add *
+
+
+want to add few commands 
